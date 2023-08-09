@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\2TDSPJ.API.props" />
+</Project>
